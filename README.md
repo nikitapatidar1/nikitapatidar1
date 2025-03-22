@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm [Nikita Patidar]!
+# 👋 Hi, I'm Nikita Patidar!
 
 🚀 **Full Stack Developer & Data Analyst**  
 💻 Passionate about building scalable web applications 
@@ -22,18 +22,20 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img src="https://github.com/nikitapatidar1/?user=nikitapatidar1&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikitapatidar1&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Top Projects  
-- 🔥 [](https://github.com/your-username/hire-me)  
-- 🚀 [Face Detection Authentication](https://github.com/your-username/face-auth)  
-- 🌟 [FastAPI Migration from Flask](https://github.com/your-username/fastapi-migration)  
+- 🌦️ [WeatherApp](https://github.com/nikitapatidar1/WeatherApp) - A weather forecasting app using OpenWeather API  
+- 🕵️‍♂️ [Face Detection Authentication](https://github.com/nikitapatidar1/Face-Detection) - Secure authentication with face recognition  
+- 🛠️ [DjangoAPI](https://github.com/nikitapatidar1/django-api) - A RESTful API built with Django  
+- 📊 [WhatsApp Chat Analyzer](https://github.com/nikitapatidar1/Whatsap-analyzer-project-using-ML) - Analyze WhatsApp chats using Machine Learning  
 
----
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/nikita/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/nikita-patidar-590052254) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](http://nikkportfolio.netlify.app)
+
 
