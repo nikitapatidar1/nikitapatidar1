@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm [Nikita Patidar]!
 
-🚀 **Backend Developer & Data Analyst**  
-💻 Passionate about building scalable web applications  
-🎯 Freelancing on **Fiverr**  
+🚀 **Full Stack Developer & Data Analyst**  
+💻 Passionate about building scalable web applications 
+
 
 ---
 
@@ -14,25 +14,26 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ 
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+<img src="https://github.com/nikitapatidar1/?user=nikitapatidar1&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Top Projects  
-- 🔥 [Hire Me - Job Application Platform](https://github.com/your-username/hire-me)  
+- 🔥 [](https://github.com/your-username/hire-me)  
 - 🚀 [Face Detection Authentication](https://github.com/your-username/face-auth)  
 - 🌟 [FastAPI Migration from Flask](https://github.com/your-username/fastapi-migration)  
 
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Fiverr](https://img.shields.io/badge/Fiverr-green?style=for-the-badge&logo=fiverr)](https://www.fiverr.com/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/nikita/your-profile)  
 
